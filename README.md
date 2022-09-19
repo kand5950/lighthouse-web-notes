@@ -1,4 +1,3 @@
-# Anit's Notes
+## Summary
 
-# This is an H1 header
-###### This is an H6 header
+This repository contains all of the notes taken by Anit for the LHL Web dev camp
